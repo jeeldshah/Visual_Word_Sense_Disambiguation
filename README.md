@@ -5,8 +5,14 @@ SemEval 2023 Task1(https://raganato.github.io/vwsd/): The task involves identify
 This repository follows the procedure from https://aclanthology.org/2023.semeval-1.199.pdf and uses the code provided in https://github.com/VaianiLorenzo/VWSD/blob/main/README.md to re-create the result and use the model as baseline for out work.
 
 We have used the code base provided in the above mentioned repository to train the Baseline model. We cloned the repository and ran the following steps being in the root directory of the repository.
+```
+git clone git@github.com:VaianiLorenzo/VWSD.git
+cd VWSD
+```
+before running these, the train/trial/test data was downloaded from the task page(https://raganato.github.io/vwsd/) and saved in VWSD/semeval-2023-task-1-V-WSD-train-v1 directory in the structure as mentioned in the repository.
 
-For their Baseline, they have got inference directly from the pretrained CLIP models (base and large). The results for this were recreated by running the following commamd:
+
+For their Baseline, they have got inference directly from the pretrained CLIP models (base and large). The results for this were recreated by running the following command:
 ```
 python single_clip_inference.py \
   --log_filename clip_results.txt \
