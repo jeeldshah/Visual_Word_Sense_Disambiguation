@@ -1,0 +1,92 @@
+TRAINING LOG
+Epoch 1
+	Training loss: 0.8911974787295605
+	Validation loss: 7.021124839782715
+Epoch 2
+	Training loss: 0.7848131992431902
+	Validation loss: 6.916699409484863
+Epoch 3
+	Training loss: 0.7511308517538428
+	Validation loss: 6.828616142272949
+Epoch 4
+	Training loss: 0.7039846325744383
+	Validation loss: 6.761704921722412
+Epoch 5
+	Training loss: 0.654873230909894
+	Validation loss: 6.711546897888184
+Epoch 6
+	Training loss: 0.6292629857708827
+	Validation loss: 6.651292324066162
+Epoch 7
+	Training loss: 0.6100335629460234
+	Validation loss: 6.588715553283691
+Epoch 8
+	Training loss: 0.5922287890232046
+	Validation loss: 6.547518730163574
+Epoch 9
+	Training loss: 0.5911064156556722
+	Validation loss: 6.522261142730713
+Epoch 10
+	Training loss: 0.5736778484044238
+	Validation loss: 6.503323078155518
+Epoch 11
+	Training loss: 0.5398467197320106
+	Validation loss: 6.488157272338867
+Epoch 12
+	Training loss: 0.5375247606903499
+	Validation loss: 6.484292984008789
+Epoch 13
+	Training loss: 0.5217220144346356
+	Validation loss: 6.469023704528809
+Epoch 14
+	Training loss: 0.5123231242581485
+	Validation loss: 6.447195529937744
+Epoch 15
+	Training loss: 0.49818925424968835
+	Validation loss: 6.474236488342285
+Epoch 16
+	Training loss: 0.48705697897879513
+	Validation loss: 6.474987983703613
+Epoch 17
+	Training loss: 0.4842873347055468
+	Validation loss: 6.482499122619629
+Epoch 18
+	Training loss: 0.4796296482824761
+	Validation loss: 6.4866437911987305
+Epoch 19
+	Training loss: 0.47521915458466696
+	Validation loss: 6.478595733642578
+Epoch 20
+	Training loss: 0.4676309238965999
+	Validation loss: 6.496805667877197
+Epoch 21
+	Training loss: 0.44829610412743703
+	Validation loss: 6.506882667541504
+Epoch 22
+	Training loss: 0.4606795733320232
+	Validation loss: 6.48329496383667
+Epoch 23
+	Training loss: 0.44264814816646697
+	Validation loss: 6.519960403442383
+Epoch 24
+	Training loss: 0.45363254331931563
+	Validation loss: 6.503683090209961
+Epoch 25
+	Training loss: 0.42634626924413144
+	Validation loss: 6.518759250640869
+Epoch 26
+	Training loss: 0.427117974398461
+	Validation loss: 6.523985862731934
+Epoch 27
+	Training loss: 0.4274234727302693
+	Validation loss: 6.527296543121338
+Epoch 28
+	Training loss: 0.41932951982323985
+	Validation loss: 6.524282455444336
+Epoch 29
+	Training loss: 0.4165535018501676
+	Validation loss: 6.532404899597168
+Epoch 30
+	Training loss: 0.4223534283719911
+	Validation loss: 6.530698776245117
+Best model found at epoch 14 with validation loss: 6.447195529937744
